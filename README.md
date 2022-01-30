@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/GuilhermeMelo01">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/481934649057214477/935231928326582302/programando.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/937340483997421593/937484778628861962/programando.gif">
 </div>
   
   <div style="display: inline_block"><br>
