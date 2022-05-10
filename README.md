@@ -3,7 +3,7 @@
 
 -   🔭 trabalho no desenvolvimento Back-end.
 -   🎓 Estou estudando no momento Java, Design Patterns e SpringBoot.
--   ❤️ Gosto de Programação, CS:GO, Futebol e passar muito tempo com a minha familia. 
+-   ❤️ Gosto de Programação & CS:GO
 
 <div align="center">
   <a href="https://github.com/GuilhermeMelo01">
