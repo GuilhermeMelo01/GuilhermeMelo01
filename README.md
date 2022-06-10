@@ -2,8 +2,7 @@
 ### Ola, meu nome é Guilherme!
 
 -   🔭 trabalho no desenvolvimento Back-end.
--   🎓 Estou estudando no momento Java, Design Patterns e SpringBoot.
--   ❤️ Gosto de Programação & CS:GO
+-   ❤️ Gosto de Programação & CS:GO  
 
 <div align="center">
   <a href="https://github.com/GuilhermeMelo01">
