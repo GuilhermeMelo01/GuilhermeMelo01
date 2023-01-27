@@ -2,7 +2,7 @@
 ### Ola, meu nome é Guilherme!
 
 -  ♥️ Apaixonado por programação e resolução de problemas!
--  🔭 Trabalho com Java e Spring no back-end, e com Angular no front-end.  
+-  🔭 Trabalho com Java e Spring!   
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
