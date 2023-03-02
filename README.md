@@ -1,15 +1,22 @@
 
 ### Ola, meu nome é Guilherme!
 
--  ♥️ Apaixonado por programação e resolução de problemas!
--  🔭 Trabalho com Java e Spring!   
+🔭 Trabalho com Java e Spring! 
+<br>
+♥️ Apaixonado por programação e resolução de problemas!
 
-  <div style="display: inline_block"><br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeMelo01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <div style="display: inline_block">
   <img align="center" alt="Gui-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Gui-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" alt="Gui-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
   <img align="center" alt="Gui-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Gui-typescript" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" /> 
+  <img align="center" alt="Gui-html" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" /> 
+  <img align="center" alt="Gui-css" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" /> 
   <img align="center" alt="Gui-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Gui-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
   <img align="center" alt="Gui-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg" />
   <img align="center" alt="Gui-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" /> 
 </div>
