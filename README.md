@@ -1,10 +1,11 @@
 
-### Ola, meu nome é Guilherme!
+### Hi, my name's Guilherme!
 
-🔭 Trabalho com Java e Spring! 
+I'm software developer in Java!♨️👨‍💻
 <br>
-♥️ Apaixonado por programação e resolução de problemas!
-
+I'm 21 years old! 👨‍
+<br>
+I love programming and solving problems!♥️ 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeMelo01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
