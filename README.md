@@ -25,15 +25,15 @@ I love programming and solving problems!♥️
 ##
 <h3>Contacts:</h3>
   <a href="https://www.linkedin.com/in/guillherme-melo/" target="_blank">
-  <img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank">
+  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank">
   &nbsp;&nbsp;
 </a> 
 <a href="https://api.whatsapp.com/send?phone=5585991085241&text=Ol%C3%A1%2C%20Gostaria%20de%20saber%20mais%20sobre%20seus%20servi%C3%A7os%20como%20desenvolvedor!" target="_blank">
-  <img height="30" width="40" src="https://cdn.discordapp.com/attachments/937340483997421593/1005811841827614761/unknown.png" target="_blank">
+  <img height="40" width="40" src="https://cdn.discordapp.com/attachments/937340483997421593/1005811841827614761/unknown.png" target="_blank">
   &nbsp;&nbsp;
 </a> 
   <a href="mailto:meloguilherme1994@gmail.com" target="_blank">
-  <img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank">
+  <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank">
   &nbsp;&nbsp;
 </a> 
 
