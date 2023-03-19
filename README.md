@@ -1,12 +1,9 @@
 
 ### Hi, my name's Guilherme!
 
-I'm software developer in Java!♨️👨‍💻
+Desenvolvedor Java!♨️👨‍💻
 <br>
-I'm 21 years old! 👨‍
-<br>
-I love programming and solving problems!♥️ 
-<br>
+Apaixonado por tecnologia, programação e resolução de problemas!❤️🧠
 
   <div style="display: inline_block">
   <img align="center" alt="Gui-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
