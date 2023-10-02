@@ -1,9 +1,8 @@
 
 ### Hi, my name's Guilherme!
 
-Desenvolvedor Java!♨️👨‍💻
+I'm a Software Developer!♨️👨‍💻
 <br>
-Apaixonado por tecnologia, programação e resolução de problemas!❤️🧠
 
   <div style="display: inline_block">
   <img align="center" alt="Gui-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
