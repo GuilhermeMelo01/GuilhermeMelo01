@@ -1,7 +1,7 @@
 
 ### Hi, my name's Guilherme!
 
-I'm a Software Developer!♨️👨‍💻
+I'm Software Developer!♨️👨‍💻
 <br>
 
   <div style="display: inline_block">
