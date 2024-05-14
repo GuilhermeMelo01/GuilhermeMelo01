@@ -1,4 +1,4 @@
 
 ### Hi, my name's Guilherme!
 
-I'm curious! 👾👨‍💻
+I'm curious! 👨‍💻
